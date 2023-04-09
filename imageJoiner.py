@@ -2,9 +2,9 @@ import os
 import random
 from PIL import Image
 
-logo_folder = "path/to/logo/folder"
-bg_folder = "path/to/background/folder"
-output_folder = "path/to/output/folder"
+logo_folder = "./logos"
+bg_folder = "./backgrounds"
+output_folder = "./output"
 
 logo_files = os.listdir(logo_folder)
 bg_files = os.listdir(bg_folder)
