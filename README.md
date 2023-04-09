@@ -13,4 +13,4 @@ Here's how the script works:
 
 5. Finally, the script saves the combined image with a filename that includes both the logo and background filenames.
 
-Make sure to install the Pillow library using Poetry by adding it to your pyproject.toml file and running poetry install.
+Make sure to install the Pillow library using Poetry by running poetry install from this directory
